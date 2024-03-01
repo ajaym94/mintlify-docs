@@ -29,16 +29,20 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "API Reference",
+      "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "App Builder",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "Zorp Alerts",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     }
