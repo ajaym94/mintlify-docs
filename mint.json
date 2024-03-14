@@ -33,14 +33,6 @@
     {
       "name": "Workflows & Ops Apps",
       "url": "workflows"
-    },
-    {
-      "name": "Alerts & Monitoring",
-      "url": "api-reference"
-    },
-    {
-      "name": "Business Intelligence",
-      "url": "api-reference"
     }
   ],
   "anchors": [
@@ -58,7 +50,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "gettingstarted", "usermanagement"]
+      "pages": ["introduction"]
     },
     {
       "group": "Getting Started",
@@ -98,7 +90,7 @@
     },
     {
       "group": "Going to Production",
-      "pages": ["workflows/testworkflow", 
+      "pages": ["workflows/testworkflows", 
                 "workflows/publishing"
       ]
     }
