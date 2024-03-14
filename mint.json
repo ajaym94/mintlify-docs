@@ -98,7 +98,9 @@
     },
     {
       "group": "Going to Production",
-      "pages": ["workflows/testworkflow", "workflows/publishing"]
+      "pages": ["workflows/testworkflow", 
+                "workflows/publishing"
+      ]
     }
   ],
   "footerSocials": {
