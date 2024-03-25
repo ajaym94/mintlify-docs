@@ -27,56 +27,71 @@
   },
   "tabs": [
     {
-      "name": "Zorp Apps",
-      "url": "api-reference"
+      "name": "Tables",
+      "url": "tables"
     },
     {
-      "name": "Alerts & Monitoring",
-      "url": "api-reference"
-    },
-    {
-      "name": "Business Intelligence",
-      "url": "api-reference"
+      "name": "Workflows & Ops Apps",
+      "url": "workflows"
     }
   ],
   "anchors": [
     {
       "name": "Book a Demo",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://www.zorp.one/book-a-free-demo"
     },
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://join.slack.com/t/zorpcommunity/shared_invite/zt-17xeqomuc-HczMdCTUtOi1hlK1iiDVGA"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["introduction"]
     },
     {
-      "group": "Essentials",
+      "group": "Getting Started",
+      "pages": ["tables/sharing", "tables/acl", "tables/columns"]
+    },
+    {
+      "group": "Workflows",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "workflows/workflows",
+        "workflows/transitions",
+        "workflows/lowcodescripting"
       ]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
+      "group": "Data Fields",
+      "pages": [
+        "workflows/datafields",
+        "workflows/systemdatafields",
+        "workflows/userdatafields"
+      ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Workflow Nodes",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "workflows/screennode",
+        "workflows/decisionnode"
+      ]
+    },
+    {
+      "group": "Automations",
+      "pages": [
+        "workflows/autointroduction",
+        "workflows/autotypes",
+        "workflows/validations",
+        "workflows/actionblocks"
+      ]
+    },
+    {
+      "group": "Going to Production",
+      "pages": ["workflows/testworkflows", 
+                "workflows/publishing"
       ]
     }
   ],
