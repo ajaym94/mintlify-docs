@@ -53,6 +53,10 @@
       "pages": ["introduction"]
     },
     {
+      "group": "Administrating Zorp",
+      "pages": ["managingusers", "managingroles", "managingteams"]
+    },
+    {
       "group": "Getting Started",
       "pages": ["tables/sharing", "tables/acl", "tables/columns"]
     },
@@ -74,10 +78,7 @@
     },
     {
       "group": "Workflow Nodes",
-      "pages": [
-        "workflows/screennode",
-        "workflows/decisionnode"
-      ]
+      "pages": ["workflows/screennode", "workflows/decisionnode"]
     },
     {
       "group": "Automations",
@@ -90,9 +91,7 @@
     },
     {
       "group": "Going to Production",
-      "pages": ["workflows/testworkflows", 
-                "workflows/publishing"
-      ]
+      "pages": ["workflows/testworkflows", "workflows/publishing"]
     }
   ],
   "footerSocials": {
