@@ -54,7 +54,7 @@
     },
     {
       "group": "Administration Hub",
-      "pages": ["managingusers", "managingroles", "managingteams"]
+      "pages": ["teamhierarchy", "usermanagement", "rolemanagement"]
     },
     {
       "group": "Getting Started",
