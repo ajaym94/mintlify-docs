@@ -104,6 +104,10 @@
     {
       "group": "Alerts",
       "pages":["alerts/alerts"]
+    },
+    {
+      "group": "Alerts with Bluebee AI",
+      "pages": ["alerts/suggestions"]
     }
   ],
   "footerSocials": {
