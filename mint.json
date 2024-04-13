@@ -62,7 +62,7 @@
     },
     {
       "group":"Access Control",
-      "pages":["tables/sharing","tables/permissions","tables/colpermissions"]
+      "pages":["tables/acl","tables/sharing","tables/permissions","tables/colpermissions"]
     },
     {
       "group": "Workflows",
