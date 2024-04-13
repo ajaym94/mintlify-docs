@@ -58,7 +58,7 @@
     },
     {
       "group": "Getting Started",
-      "pages": ["tables/columns"]
+      "pages": ["tables/acl"]
     },
     {
       "group":"Access Control",
