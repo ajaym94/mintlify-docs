@@ -49,7 +49,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting Started",
       "pages": ["introduction"]
     },
     {
@@ -58,8 +58,12 @@
     },
     {
       "group": "Getting Started",
-      "pages": ["tables/sharing", "tables/acl", "tables/columns"]
+      "pages": ["tables/columns"]
     },
+    {
+      "group":"Access Control",
+      "pages":["tables/acl","tables/sharing","tables/permissions","tables/colpermissions"]
+    }
     {
       "group": "Workflows",
       "pages": [
