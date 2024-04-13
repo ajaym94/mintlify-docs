@@ -33,6 +33,10 @@
     {
       "name": "Workflows & Ops Apps",
       "url": "workflows"
+    },
+    {
+      "name": "Alerts",
+      "url": "alerts"
     }
   ],
   "anchors": [
@@ -96,6 +100,10 @@
     {
       "group": "Going to Production",
       "pages": ["workflows/testworkflows", "workflows/publishing"]
+    },
+    {
+      "group": "Alerts",
+      "pages":["alerts/alerts"]
     }
   ],
   "footerSocials": {
