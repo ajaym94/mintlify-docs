@@ -108,7 +108,7 @@
     {
       "group":"Tables on Mobile",
       "pages":["mobile-app/introduction","mobile-app/duplicate-records"]
-    }
+    },
     {
       "group": "Alerts",
       "pages":["alerts/alerts"]
