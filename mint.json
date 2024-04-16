@@ -115,7 +115,7 @@
     },
     {
       "group": "Alerts with Bluebee AI",
-      "pages": ["alerts/suggestions"]
+      "pages": ["alerts/suggestions", "alerts/personalized-alerts"]
     }
   ],
   "footerSocials": {
