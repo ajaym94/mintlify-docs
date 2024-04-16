@@ -31,8 +31,12 @@
       "url": "tables"
     },
     {
-      "name": "Workflows & Ops Apps",
+      "name": "Workflows",
       "url": "workflows"
+    },
+    {
+      "name":"ZORP App",
+      "url":"mobile-app"
     },
     {
       "name": "Alerts",
@@ -101,6 +105,10 @@
       "group": "Going to Production",
       "pages": ["workflows/testworkflows", "workflows/publishing"]
     },
+    {
+      "group":"Tables on Mobile",
+      "pages":["mobile-app/introduction","mobile-app/duplicate-records"]
+    }
     {
       "group": "Alerts",
       "pages":["alerts/alerts"]
