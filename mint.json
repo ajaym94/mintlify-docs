@@ -111,7 +111,7 @@
     },
     {
       "group": "Alerts",
-      "pages":["alerts/alerts"]
+      "pages":["alerts/alerts", "alerts/connect"]
     },
     {
       "group": "Alerts with Bluebee AI",
